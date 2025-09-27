@@ -80,7 +80,7 @@ button:hover {
     background-color: #2980b9;
 }
 
-/* Спиннер загрузки */
+/* Спиннер загрузки переработан */
 .spinner {
     width: 40px;
     height: 40px;
@@ -107,17 +107,3 @@ button:hover {
     margin: 10px 0;
 }
 
-/* Адаптивность */
-@media (max-width: 600px) {
-    .container {
-        padding: 15px;
-    }
-    
-    h1 {
-        font-size: 2rem;
-    }
-    
-    p {
-        font-size: 1rem;
-    }
-}

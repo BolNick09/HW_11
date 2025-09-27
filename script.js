@@ -1,5 +1,7 @@
-class DataLoader {
-    constructor() {
+class DataLoader 
+{
+    constructor() 
+    {
         this.titleElement = document.getElementById('title');
         this.imageElement = document.getElementById('image');
         this.contentElement = document.getElementById('content');

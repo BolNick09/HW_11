@@ -57,10 +57,7 @@ if (isset($_GET['get']))
                 </p>
             </article>
         </main>
-        
-        <!-- <footer>
-            <button id="retry-btn" style="display: none;">Попробовать снова</button>
-        </footer> -->
+
     </div>
     
     <script src="script.js"></script>
